@@ -46,8 +46,8 @@ Flatten the index,confidence.
 Display the result.
 
 ```
-DEVELOPED BY : VARSHINI D
-reg no : 212223230234
+DEVELOPED BY : Dinesh S
+reg no : 212222230033
 
 ```
 ## I)Perform ROI from an image:
